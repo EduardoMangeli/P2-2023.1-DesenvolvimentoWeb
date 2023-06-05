@@ -20,7 +20,11 @@ Reproduzir o comportamento da página https://eduardomangeli.github.io/P2-2023.1
 
 ## Entrega
 ### Unidade Barra
+Seu repositório deve conter um link para a página no github pages.
+
 - Até 21/06
-- enviar email para eduardo@mangeli.com.br com **assunto** no formato:
-   - \[P2 Desenvolimento WEB 2023-1 - Barra - XXXXX\],
-   - onde XXXXX deve ser seu nome completo
+- enviar email para eduardo@mangeli.com.br:
+   - **assunto** no formato: \[P2 Desenvolimento WEB 2023-1 - Barra - XXXXX\], onde XXXXX deve ser seu nome completo
+   - **conteúdo**:
+      - link para seu repositório
+      - link para a página no ar
