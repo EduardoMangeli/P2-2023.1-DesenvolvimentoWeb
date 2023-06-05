@@ -15,7 +15,7 @@ Reproduzir o comportamento da página https://eduardomangeli.github.io/P2-2023.1
       - vertical até 768px
    - Página Principal:
       - duas colunas até 768px
-      - quatro colunas até 124px
+      - quatro colunas até 1024px
       - largua máxima da lista de 1200px
 
 ## Entrega
