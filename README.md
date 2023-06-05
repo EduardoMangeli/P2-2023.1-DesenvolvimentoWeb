@@ -3,7 +3,7 @@
 ## Objetivo
 Reproduzir o comportamento da página https://eduardomangeli.github.io/P2-2023.1-DesenvolvimentoWeb/
 
-## Restriç
+## Restrições
 1. CSS e JavaScript deve ser em arquivos separados
 2. É preciso usar armazenamento local para viabilizar a construção da página de detalhes
 3. Os elencos feminino e masculino devem estar separados
