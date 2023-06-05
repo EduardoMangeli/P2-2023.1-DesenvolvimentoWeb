@@ -28,3 +28,13 @@ Seu repositório deve conter um link para a página no github pages.
    - **conteúdo**:
       - link para seu repositório
       - link para a página no ar
+
+### Unidade Centro
+Seu repositório deve conter um link para a página no github pages.
+
+- Até 19/06
+- enviar email para eduardo@mangeli.com.br:
+   - **assunto** no formato: \[P2 Desenvolimento WEB 2023-1 - Centro - XXXXX\], onde XXXXX deve ser seu nome completo
+   - **conteúdo**:
+      - link para seu repositório
+      - link para a página no ar
